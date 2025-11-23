@@ -1,12 +1,12 @@
 #Task 1
-"""def facto(a):
+def facto(a):
     if a == 0 or a == 1:
         return 1
     else:
         return a * facto(a - 1)
 
 num = int(input("Give a number: "))
-print(f"Factorial of {num} is {facto(num)}")"""
+print(f"Factorial of {num} is {facto(num)}")
 
 #Task 2
 import math
